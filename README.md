@@ -1,2 +1,2 @@
-# Fire-Lang
-A programming language written in C++
+# 语言标准
+正在制订
