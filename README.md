@@ -19,7 +19,7 @@ __This project is the code of it's interpreter.__
 |`float`|`else`|`do`|`default`|`false`|
 |`boolean`|`elif`|`dosub`|`continue`|`null`|
 |`char`|`jumpout`|`sub`|`return`|
-|`const`|`for`|`switch`|
+|`const`|`for`|`switch`|`include`|
 
 ## *3.Contribution*
 
