@@ -14,17 +14,11 @@ __This project is the code of it's interpreter.__
 
 
 |`Var & Basic Type`|`control`|
-
 |:----:|:----:|
-
 |`integer`|`if`|
-
 |`float`|`else`|
-
 |`boolean`|`elif`|
-
 |`char`|`jumpout`|
-
 |`const`|`for`|
 
 ## *3.Contribution*
