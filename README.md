@@ -9,23 +9,23 @@ __This project is the code of it's interpreter.__
 
 ## *2.docs*
 
-** Keywords **
+**Keywords**
 
 
 
-|Var & Basic Type|
+|`Var & Basic Type`|`control`|
 
-|:----------------------:|
+|:----:|:----:|
 
-|`integer`|
+|`integer`|`if`|
 
-|`float`|
+|`float`|`else`|
 
-|`boolean`|
+|`boolean`|`elif`|
 
-|`char`|
+|`char`|`jumpout`|
 
-|`const`|
+|`const`|`for`|
 
 ## *3.Contribution*
 
