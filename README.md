@@ -13,19 +13,19 @@ __This project is the code of it's interpreter.__
 
 
 
-| Var & Basic Type |
+|Var & Basic Type|
 
-| ------------------------ |
+|:----------------------:|
 
-| integer                  |
+|`integer`|
 
-| float                       |
+|`float`|
 
-| boolean                |
+|`boolean`|
 
-| char                       |
+|`char`|
 
-| const                     |
+|`const`|
 
 ## *3.Contribution*
 
