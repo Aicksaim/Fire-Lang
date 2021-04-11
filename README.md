@@ -13,13 +13,13 @@ __This project is the code of it's interpreter.__
 
 
 
-|`Var & Basic Type`|`control`|
-|:----:|:----:|
-|`integer`|`if`|
-|`float`|`else`|
-|`boolean`|`elif`|
-|`char`|`jumpout`|
-|`const`|`for`|
+|`Var & Basic Type`|`control`|`control`|`control`|
+|:----:|:----:|:----:|:----:|:----:|
+|`integer`|`if`|`while`|`case`|
+|`float`|`else`|`do`|`default`|
+|`boolean`|`elif`|`dosub`|`continue`|
+|`char`|`jumpout`|`sub`|`return`|
+|`const`|`for`|`switch`||
 
 ## *3.Contribution*
 
